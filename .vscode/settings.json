@@ -1,0 +1,9 @@
+{
+    "competitive-programming-helper.firstTime": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp"
+    }
+}
