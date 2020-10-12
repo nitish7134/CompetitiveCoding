@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: COVID19B","srcPath":"e:\\CC\\Ques\\COVID19B.cpp","tests":[{"id":1599478180932,"input":"4\n3\n1 2 3\n3\n3 2 1\n3\n0 0 0\n3\n1 3 2","output":"1 1\n3 3\n1 1\n1 2"},{"id":1599481397484,"input":"1\n3\n3 1 2","output":"2 3"}],"timeLimit":3000,"url":"e:\\CC\\Ques\\COVID19B.cpp"}

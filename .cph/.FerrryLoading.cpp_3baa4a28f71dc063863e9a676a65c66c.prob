@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: FerrryLoading","srcPath":"e:\\CC\\Ques\\FerrryLoading.cpp","tests":[{"id":1596679474360,"input":"1\n50\n2500\n3000\n1000\n1000\n1500\n700\n800\n0","output":"6\nport\nstarboard\nstarboard\nstarboard\nport\nport"}],"timeLimit":3000,"url":"e:\\CC\\Ques\\FerrryLoading.cpp"}

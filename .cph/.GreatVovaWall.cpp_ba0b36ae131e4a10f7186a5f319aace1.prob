@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: GreatVovaWall","srcPath":"e:\\CC\\Ques\\GreatVovaWall.cpp","tests":[{"id":1595880694756,"input":"5\n2 1 1 2 5","output":"YES"}],"timeLimit":3000,"url":"e:\\CC\\Ques\\GreatVovaWall.cpp"}

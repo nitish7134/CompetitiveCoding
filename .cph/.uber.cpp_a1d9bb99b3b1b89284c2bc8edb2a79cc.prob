@@ -1,0 +1,1 @@
+{"name":"Local: uber","url":"e:\\CC\\Ques\\uber.cpp","tests":[{"id":1600894356939,"input":"6\npq\nabc\nxyz\nkbc\nkbcxyzpq\nabcxyzkbc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CC\\Ques\\uber.cpp","group":"local","local":true}

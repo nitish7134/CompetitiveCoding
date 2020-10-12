@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: HouseTarget","srcPath":"e:\\CC\\Ques\\HouseTarget.cpp","tests":[{"id":1596656495642,"input":"2\n7 \n2 1 0 1 2 1 6\n5\n6\n2 0 3 7 11 13\n4","output":"Yes\nNo"}],"timeLimit":3000,"url":"e:\\CC\\Ques\\HouseTarget.cpp"}
